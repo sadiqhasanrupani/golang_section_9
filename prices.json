@@ -1,0 +1,12 @@
+{
+  "commonGSTRate": 0.18,
+  "products": [
+    { "name": "Laptop", "price": 1000 },
+    { "name": "Mobile", "price": 500 },
+    { "name": "TV", "price": 2000 },
+    { "name": "Fridge", "price": 3000 },
+    { "name": "Washing Machine", "price": 4000 },
+    { "name": "Microwave", "price": 200 },
+    { "name": "Oven", "price": 500 }
+  ]
+}
